@@ -5,9 +5,9 @@
 	justify-content:center;
 	}
 	.flex-container>div{
-	background-color:#bbb;
-	margin:30px;
-	padding:15px;
+	background:#F5B04;
+	margin:15px;
+	padding:30px;
 	font-size:10px;
 	
 	}
@@ -15,7 +15,7 @@
 	
 
 body{
-	background-color:#781D42;
+	background-color:#A93226;
 	}
 h1{
  color:blue;
@@ -55,7 +55,7 @@ font-weight:17px;
 
 @media  only screen and (max-width:600px) {
 	  body {
-	    background-color:#FFB5B5;
+	    background-color:#cream;
 	   
 	    }
 }
